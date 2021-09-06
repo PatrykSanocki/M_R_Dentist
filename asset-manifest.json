@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/M_R_Dentist/static/css/main.acadceba.chunk.css",
+    "main.js": "/M_R_Dentist/static/js/main.3b8e80a9.chunk.js",
+    "main.js.map": "/M_R_Dentist/static/js/main.3b8e80a9.chunk.js.map",
+    "runtime-main.js": "/M_R_Dentist/static/js/runtime-main.8d652f9d.js",
+    "runtime-main.js.map": "/M_R_Dentist/static/js/runtime-main.8d652f9d.js.map",
+    "static/js/2.292d1a2e.chunk.js": "/M_R_Dentist/static/js/2.292d1a2e.chunk.js",
+    "static/js/2.292d1a2e.chunk.js.map": "/M_R_Dentist/static/js/2.292d1a2e.chunk.js.map",
+    "static/js/3.e8f703ac.chunk.js": "/M_R_Dentist/static/js/3.e8f703ac.chunk.js",
+    "static/js/3.e8f703ac.chunk.js.map": "/M_R_Dentist/static/js/3.e8f703ac.chunk.js.map",
+    "index.html": "/M_R_Dentist/index.html",
+    "static/css/main.acadceba.chunk.css.map": "/M_R_Dentist/static/css/main.acadceba.chunk.css.map",
+    "static/js/2.292d1a2e.chunk.js.LICENSE.txt": "/M_R_Dentist/static/js/2.292d1a2e.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/M_R_Dentist/static/media/Raleway-VariableFont_wght.3fefe681.ttf",
+    "static/media/chair-2589770_1024.fabda15d.jpg": "/M_R_Dentist/static/media/chair-2589770_1024.fabda15d.jpg",
+    "static/media/dental-2450751_1024.2747f4cf.jpg": "/M_R_Dentist/static/media/dental-2450751_1024.2747f4cf.jpg",
+    "static/media/dentist-1639683_1024.fdfcd04c.jpg": "/M_R_Dentist/static/media/dentist-1639683_1024.fdfcd04c.jpg",
+    "static/media/dentist-1864921_1024.0370f8d3.jpg": "/M_R_Dentist/static/media/dentist-1864921_1024.0370f8d3.jpg",
+    "static/media/dentist-2530990_1024.c9ed276d.jpg": "/M_R_Dentist/static/media/dentist-2530990_1024.c9ed276d.jpg",
+    "static/media/dentist-2589771_1024.82ad2ecf.jpg": "/M_R_Dentist/static/media/dentist-2589771_1024.82ad2ecf.jpg",
+    "static/media/dentist-428646_1024.5ed4d75a.jpg": "/M_R_Dentist/static/media/dentist-428646_1024.5ed4d75a.jpg",
+    "static/media/dentist-428648_1024.07d73791.jpg": "/M_R_Dentist/static/media/dentist-428648_1024.07d73791.jpg",
+    "static/media/dentist-4373290_1024.c7e68066.jpg": "/M_R_Dentist/static/media/dentist-4373290_1024.c7e68066.jpg",
+    "static/media/doctor-1149149_1024.1367766e.jpg": "/M_R_Dentist/static/media/doctor-1149149_1024.1367766e.jpg",
+    "static/media/doctor-563429_1024.2358bbe7.jpg": "/M_R_Dentist/static/media/doctor-563429_1024.2358bbe7.jpg",
+    "static/media/phone-499991_1024.40531b4c.jpg": "/M_R_Dentist/static/media/phone-499991_1024.40531b4c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d652f9d.js",
+    "static/js/2.292d1a2e.chunk.js",
+    "static/css/main.acadceba.chunk.css",
+    "static/js/main.3b8e80a9.chunk.js"
+  ]
+}
